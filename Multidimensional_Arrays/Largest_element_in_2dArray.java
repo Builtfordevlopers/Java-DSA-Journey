@@ -1,7 +1,7 @@
 /*
     Question:-
         Write a Java program to find the largest element of
-        given 2D array of integers
+        given 2D array[] of integers
 */
 package Multidimensional_Arrays;
 

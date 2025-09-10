@@ -3,7 +3,7 @@
         Add Two Matrices
 
      Learning:-
-        Both Arrays need to be SAME else Addition is not possible in 2D array.
+        Both Arrays need to be SAME else Addition,substraction,etc is not possible in 2D array.
 */
 
 package Multidimensional_Arrays;

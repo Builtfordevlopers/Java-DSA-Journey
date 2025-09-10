@@ -22,5 +22,6 @@ public class rowWise_and_colWisePrinting {
             }
             System.out.println();
         }
+
     }
 }

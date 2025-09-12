@@ -1,5 +1,5 @@
 /*
-    Question:- LEETCODE
+    Question:- LEETCODE 118
          Given an integer n generate pascal's triangle
                             1
                            1 1

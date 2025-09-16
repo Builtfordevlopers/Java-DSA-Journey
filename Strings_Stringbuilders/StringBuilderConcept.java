@@ -1,6 +1,4 @@
 /*
-     Of course! Here is a detailed guide covering everything about StringBuilder in Java.
-
 StringBuilder in Java is a mutable, or changeable, sequence of characters. It's designed to be a high-performance replacement for String when you need to perform many modifications, like concatenations or insertions, because String objects are immutable and creating new ones repeatedly is inefficient.
 
 Why Do We Need StringBuilder? The Problem with String

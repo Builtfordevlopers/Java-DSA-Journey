@@ -21,7 +21,6 @@ public class reverseStringBulderwithOutBuiltinMethod {
             sb.setCharAt(i, backChar);
             sb.setCharAt(j, frontChar);
 
-
             i++;
             j--;
         }

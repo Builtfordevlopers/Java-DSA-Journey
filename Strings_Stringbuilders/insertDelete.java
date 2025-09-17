@@ -29,7 +29,8 @@ public class insertDelete {
         System.out.println(sb);
 
         //Reverse
-
+        sb.reverse();
+        System.out.println(sb);
 
     }
 }

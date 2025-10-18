@@ -72,6 +72,5 @@ public class isomorphicString {
             }
         }
         sc.close();
-
     }
 }

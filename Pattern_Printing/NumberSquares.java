@@ -2,7 +2,7 @@ package Pattern_Printing;
 
 import java.util.Scanner;
 
-public class OneTwoThreeSquare {
+public class NumberSquares {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = 4; //row

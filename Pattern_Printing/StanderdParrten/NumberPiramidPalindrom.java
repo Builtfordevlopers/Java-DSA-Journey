@@ -34,12 +34,6 @@ Expected Output
 
 */
 
-
-
-
-
-
-
 package Pattern_Printing.StanderdParrten;
 
 public class NumberPiramidPalindrom {
@@ -57,7 +51,6 @@ public class NumberPiramidPalindrom {
                 System.out.print(j + " ");
             }
             System.out.println();
-
         }
     }
 }

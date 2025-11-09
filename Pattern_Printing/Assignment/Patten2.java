@@ -31,7 +31,7 @@ A B C D
 
 package Pattern_Printing.Assignment;
 
-public class Partten2 {
+public class Patten2 {
     public static void main(String[] args) {
         int n = 4;
 

@@ -36,7 +36,7 @@ A B C D
 
 package Pattern_Printing.Assignment;
 
-public class Parttern {
+public class Pattern {
     public static void main(String[] args) {
         int n = 4;
 //Question No 1

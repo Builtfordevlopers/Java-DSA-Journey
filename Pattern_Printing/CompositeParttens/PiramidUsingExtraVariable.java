@@ -1,3 +1,13 @@
+/*
+
+        *
+      * * *
+    * * * * *
+  * * * * * * *
+
+
+*/
+
 package Pattern_Printing.CompositeParttens;
 
 public class PiramidUsingExtraVariable {

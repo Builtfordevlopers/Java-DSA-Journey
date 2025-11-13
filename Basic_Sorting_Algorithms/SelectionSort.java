@@ -19,6 +19,7 @@ public class SelectionSort {
         int n = arr.length;
 
         print(arr);
+
         for (int i = 0; i <n-1; i++) {
             int min = Integer.MAX_VALUE;
             int minDex = -1;

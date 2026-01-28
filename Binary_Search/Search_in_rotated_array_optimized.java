@@ -2,7 +2,7 @@ package Binary_Search;
 
 import java.util.Scanner;
 
-public class Search_in_rotaeted_array_optimized {
+public class Search_in_rotated_array_optimized {
     static class Solution {
 
         public int search(int[] arr, int target) {
